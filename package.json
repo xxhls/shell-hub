@@ -1,0 +1,19 @@
+{
+  "name": "@xxhls/shell-hub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "xxhls <heyq020814@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "commitizen": "4.3.1",
+    "cz-conventional-changelog-zh-cn": "0.0.7"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog-zh-cn"
+    }
+  }
+}
